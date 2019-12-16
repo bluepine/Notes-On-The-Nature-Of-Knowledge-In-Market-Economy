@@ -11,6 +11,8 @@ Testing: falsification and risky validation.
 No knowledge can be proven true absolutely.
 [https://en.wikipedia.org/wiki/I_know_that_I_know_nothing]
 
+Since no knowledge can be proven true absolutely, it follows that one has to take risk when acting upon a piece of knowledge. This is especially true in a market economy. It is possible that repeated actions by many participants can serve as extra validations for said knowledge, thus decreasing the risk. However the systematic risk could still be on the rise at the same time, since such actions could lead to a self-reenforcing cycle. In order to beat the market, the market participant needs to act differently to differentiate, and he/she also needs to control the risk of being wrong. It is plausible for said market participant to repeat the adversarial process of coming up with bold assumptions and challenge it with existing evidence and reason, until the risk is lowered under an acceptable bound and the reward still profitable.
+
 Human's perception of truth can lead to to a self-reenforcing cycle, which keeps validating the perceived truth until it can no longer do so.
 
 - [https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415]
@@ -57,7 +59,12 @@ Interpersonal communication, on the other hand, is a piece of logical reasoning 
 
 The production of knowledge requires effort in all of its three stages: coming up with an assumption from observations, construction of logical reasoning, validation of conclusion. The distribution of efforts on these three parts may vary, leading to different skill sets in the knowledge production process, which in turn leads to the necessity of teamwork.
 
-Further reading:
+### Open questions:
+
+- According to George Soros[https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415], testing on knowledge involving human interactions is often unreliable because humans tend to behave differently when there is a test for them. Is there a way to solve this problem?
+- Can knowledge exist in a distributed manner? Can knowledge be recorded not as logical reasoning but numerical computations? Can knowledge production process span across multiple generations? Can one know but doesn't know he knows?
+
+### Further reading:
 
 - [https://plato.stanford.edu/entries/epistemic-paradoxes/]
 - [https://plato.stanford.edu/entries/plato-theaetetus/]
