@@ -52,6 +52,9 @@ A computer program is a piece of logical reasoning which requires very little ef
 
 Interpersonal communication, on the other hand, is a piece of logical reasoning which requires a lot of effort on testing its assumptions, which are other people's subconscious pattern and state, and their assignment of the probability of truthfulness on various pieces of knowledge. Under this view, the words spoken during interpersonal communication is only a small part of the logical reasoning.
 
+- [http://www.columbia.edu/~rmk7/PDF/Comm.pdf]
+- [https://www.annualreviews.org/doi/10.1146/annurev.psych.54.101601.145041]
+
 The production of knowledge requires effort in all of its three stages: coming up with an assumption from observations, construction of logical reasoning, validation of conclusion. The distribution of efforts on these three parts may vary, leading to different skill sets in the knowledge production process, which in turn leads to the necessity of teamwork.
 
 Further reading:
