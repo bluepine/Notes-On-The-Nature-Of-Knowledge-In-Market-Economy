@@ -30,7 +30,7 @@ Over time, the market tends to exhaust the factors contributing to the truthfuln
 - [https://arxiv.org/abs/cond-mat/0402651]
 - [https://en.wikipedia.org/wiki/The_Logic_of_Collective_Action]
 
-If we can construct and validate quantitative models that capture the dynamics of different factors contributing to the truthfulness of an assumption, we would have gained a deeper level of understanding of the knowledge that is based upon said assumption. However this is not always feasible. In turn, empirical heuristics are often employed. Human society tends to form fitness selection mechanisms for these heuristics, which could have drastic consequences.
+If we can construct and validate quantitative models that capture the dynamics of different factors contributing to the truthfulness of an assumption, we would have gained a deeper level of understanding of the knowledge that is based upon said assumption. However this is not always feasible. In turn, empirical heuristics are often employed. Human society tends to form fitness selection mechanisms for these heuristics, which could have drastic consequences. It is possible to hack these fitness selection mechanisms to let false assumptions win.
 
 Despite the existence of rational reasoning in favor of being the minority in many game scenarios, herd behavior continues to exist.
 
