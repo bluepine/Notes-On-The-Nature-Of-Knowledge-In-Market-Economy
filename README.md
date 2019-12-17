@@ -61,6 +61,8 @@ Interpersonal communication, on the other hand, is a piece of logical reasoning 
 
 The production of knowledge requires effort in all of its three stages: coming up with an assumption from observations, construction of logical reasoning, validation of conclusion. The distribution of efforts on these three parts may vary, leading to different skill sets in the knowledge production process, which in turn leads to the necessity of teamwork.
 
+If a piece of knowledge is less known, it will be less validated. However it could also be more valuable in a market. If a piece of knowledge is well known, it will be well validated and usually contains less risk. It is thus plausible for a market participle to make use of less known knowledge in strategic planning and well known knowledge in tactical execution.
+
 ### Open questions:
 
 - According to George Soros[https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415], testing on knowledge involving human interactions is often unreliable because humans tend to behave differently when there is a test for them. Is there a way to solve this problem?
