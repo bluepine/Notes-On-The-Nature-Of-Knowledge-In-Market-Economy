@@ -19,7 +19,7 @@ Human's perception of truth can lead to to a self-reenforcing cycle, which keeps
 - [https://ocw.tudelft.nl/wp-content/uploads/ElFarolArtur1994.pdf]
 - [http://blackout.gmu.edu/archive/pdf/arthur_90.pdf]
 
-If a piece of knowledge concerns actions of its user, then it usually cannot be gained passively. The user needs to act in order to examine the pattern of response. It then follows that said user faces a exploitation vs exploration dilemma: he has to choice between taking new actions to gain new knowledge and taking examined actions to benefit from existing knowledge.
+If a piece of knowledge concerns actions of its user, then it usually cannot be gained passively. The user needs to act in order to examine the pattern of response. It then follows that said user faces an exploitation vs exploration dilemma: he has to choice between taking new actions to gain new knowledge and taking examined actions to benefit from existing knowledge.
 
 The assumption of a logical reasoning is also a piece of knowledge, which cannot be proven true absolutely. Usually the truthfulness of the assumption is determined by a number of competing factors, which tend to change over time.
 
@@ -64,7 +64,7 @@ The production of knowledge requires effort in all of its three stages: coming u
 ### Open questions:
 
 - According to George Soros[https://www.tandfonline.com/doi/full/10.1080/1350178X.2013.859415], testing on knowledge involving human interactions is often unreliable because humans tend to behave differently when there is a test for them. Is there a way to solve this problem?
-- Can knowledge exist in a distributed manner? Can knowledge be recorded not as logical reasoning but numerical computations? Can knowledge production process span across multiple generations? Can one know but doesn't know he knows?
+- Can knowledge exist in a distributed manner? Can knowledge be recorded not as logical reasoning but numerical computations? Can knowledge production process span across multiple generations? Can one know but doesn't know he knows? Can one know but doesn't know how much he knows? Can one know and thinks he know but what the he thinks he know is wrong but he still knows?
 
 ### Further reading:
 
