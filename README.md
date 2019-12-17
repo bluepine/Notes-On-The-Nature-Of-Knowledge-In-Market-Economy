@@ -19,7 +19,7 @@ Human's perception of truth can lead to to a self-reenforcing cycle, which keeps
 - [https://ocw.tudelft.nl/wp-content/uploads/ElFarolArtur1994.pdf]
 - [http://blackout.gmu.edu/archive/pdf/arthur_90.pdf]
 
-If a piece of knowledge concerns actions of its user, then it usually cannot be gained passively. The user needs to act in order to examine the pattern of response. It then follows that said user faces an exploitation vs exploration dilemma: he has to choice between taking new actions to gain new knowledge and taking examined actions to benefit from existing knowledge.
+If a piece of knowledge concerns actions of its user, then it usually cannot be gained passively. The user needs to act in order to examine the pattern of response. It then follows that said user faces an exploitation vs exploration dilemma: he has to choose between taking new actions to gain new knowledge and taking examined actions to benefit from existing knowledge.
 
 The assumption of a logical reasoning is also a piece of knowledge, which cannot be proven true absolutely. Usually the truthfulness of the assumption is determined by a number of competing factors, which tend to change over time.
 
